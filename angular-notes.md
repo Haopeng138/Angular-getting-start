@@ -13,3 +13,10 @@ Apuntes basado sobre el tutorial de [Tour of Heroes](https://angular.io/tutorial
 `ngModel` enlaces de datos bidireccionar, para usar ngModel se debe importar 'FormsModule' de angular. 
 Cada componente debe declarar solo un NgModel,pero no hace falta declarar en cada uno de ellos porque en app.module.ts en 'declarations' esta los componentes que se utiliza.
 
+## Cap 2:
+
+`ngFor` usar esto dentros de las etiquetas html de esta forma: 'ngFor="let heroe of heroes"'
+
+`ngIf` para incluir o excluir bloques HTML 
+
+Se puede CSS con enlace class 
