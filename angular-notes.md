@@ -20,3 +20,8 @@ Cada componente debe declarar solo un NgModel,pero no hace falta declarar en cad
 `ngIf` para incluir o excluir bloques HTML 
 
 Se puede CSS con enlace class 
+
+## Cap 3: 
+
+Crea un componente reutilizabre,refactorizando
+
